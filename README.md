@@ -2,7 +2,7 @@
 
 ## Creators Note:
 
-Hello! This is my try at the url shortener be-dev-assesment. I worked this without using a framework like Lavarel, though retrospectively it might've made a lot of the work easier for me, especially with pertinence to working the database into it. It is something I will begin learning more about as I move forward with my own projects.
+Hello! This is my try at the url shortener be-dev-assesment. I worked this without using a framework like Laravel, though retrospectively it might've made a lot of the work easier for me, especially with pertinence to working the database into it. It is something I will begin learning more about as I move forward with my own projects.
 
 I had a lot of fun working on figuring this out. It definitely taught me a lot as well! Please let me know where I can improve and I look forward to hearing some feedback. Let me know if there is anything I can do on my end or if something doesn't work and thank you for this opportunity! 😸
 
