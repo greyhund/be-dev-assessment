@@ -1,0 +1,9 @@
+RewriteEngine On
+
+# Analytics route
+RewriteRule ^analytics/([^/]+)$ analytics.php?code=$1 [L]
+
+# If file or folder doesn't exist, rewrite to redirect.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^/]+)$ redirect.php?code=$1 [L]
